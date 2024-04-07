@@ -55,8 +55,8 @@ footer {
   background-color: #090000;
   color: #006400;
   text-align: center;
-  padding: 5px;
-  position: relative;
+  padding: 3px;
+  position: auto;
   bottom: 0;
   width: 100%;
   margin-top: auto;
